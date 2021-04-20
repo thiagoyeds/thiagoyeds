@@ -23,3 +23,7 @@
 <a href="https://www.oracle.com/java/"><img src="./icons/languages/java.ico" width="30px"></a>
 <a href="https://www.python.org"><img src="./icons/languages/python.ico" width="30px"></a>
 <a href="https://www.cplusplus.com"><img src="./icons/languages/c plus plus.png" width="30px"></a>
+
+## My GitHub Stats is
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoyeds&show_icons=true" alt="thiagoyeds" /></p>
