@@ -11,12 +11,12 @@
 ## I've skills in programming languages
 
 ### Novice level
-<a href="https://www.learn-c.org"><img src="./icons/languages/c.png" width="30px">
+<a href="https://www.learn-c.org"><img src="./icons/languages/c.png" width="30px"></a>
 <a href="https://www.r-project.org"><img src="./icons/languages/r.ico" width="30px"></a>
 
 ### Basic level
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="./icons/languages/c sharp.png" width="30px"></a>
-<a href="https://golang.org"><img src="./icons/languages/golang.ico" width="30px">
+<a href="https://golang.org"><img src="./icons/languages/golang.ico" width="30px"></a>
 <a href="https://golang.org"><img src="./icons/languages/javascript.png" width="30px"></a>
 
 ### Intermediate level
