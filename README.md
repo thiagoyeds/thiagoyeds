@@ -50,6 +50,12 @@
 <a href="https://kubernetes.io"><img src="./icons/technologies/kubernetes.png" width="30px"></a>
 <a href="https://www.docker.com"><img src="./icons/technologies/docker.png" width="30px"></a>
 
+## My tools skills
+
+<a href="https://git-scm.com"><img src="./icons/tools/git.ico" width="30px"></a>
+<a href="https://www.npmjs.com"><img src="./icons/tools/npm.png" width="30px"></a>
+<a href="https://qgis.org/m"><img src="./icons/tools/qgis.ico" width="30px"></a>
+
 ## My GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoyeds&show_icons=true" alt="thiagoyeds" /></p>
