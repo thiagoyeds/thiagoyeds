@@ -13,6 +13,7 @@
 ### Novice level
 <a href="https://www.learn-c.org"><img src="./icons/languages/c.png" width="30px"></a>
 <a href="https://www.r-project.org"><img src="./icons/languages/r.ico" width="30px"></a>
+<a href="https://elixir-lang.org"><img src="./icons/languages/elixir.ico" width="30px"></a>
 
 ### Basic level
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="./icons/languages/c sharp.png" width="30px"></a>
