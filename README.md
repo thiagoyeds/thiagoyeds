@@ -8,11 +8,12 @@
 - 💬 ask me about everything, i love learning new things and mainly socializing!
 - 📫 how to reach me: thiago.souza@ccc.ufcg.edu.br
 
-## I've skills in programming languages
+## My programming languages skills
 
 ### Novice level
 <a href="https://www.learn-c.org"><img src="./icons/languages/c.png" width="30px"></a>
 <a href="https://www.r-project.org"><img src="./icons/languages/r.ico" width="30px"></a>
+<a href="https://elixir-lang.org"><img src="./icons/languages/elixir.ico" width="30px"></a>
 
 ### Basic level
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="./icons/languages/c sharp.png" width="30px"></a>
@@ -49,6 +50,6 @@
 <a href="https://kubernetes.io"><img src="./icons/technologies/kubernetes.png" width="30px"></a>
 <a href="https://www.docker.com"><img src="./icons/technologies/docker.png" width="30px"></a>
 
-## My GitHub Stats is
+## My GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoyeds&show_icons=true" alt="thiagoyeds" /></p>
