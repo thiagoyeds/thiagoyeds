@@ -36,6 +36,7 @@
 <a href=""><img src="./icons/technologies/helm.jpg" width="30px"></a>
 
 ### Basic level
+<a href="http://geoserver.org"><img src="./icons/technologies/geoserver.ico" width="30px"></a>
 <a href="https://spring.io/projects/spring-boot"><img src="./icons/technologies/spring boot.ico" width="30px"></a>
 <a href="https://unity.com"><img src="./icons/technologies/unity.png" width="30px"></a>
 <a href="https://www.datadoghq.com"><img src="./icons/technologies/datadog.ico" width="30px"></a>
